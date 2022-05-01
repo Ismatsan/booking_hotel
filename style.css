@@ -1,5 +1,11 @@
 .button{
     width: 100px;
     height: 30px;
-    background: aqua;
+    background: greenyellow;
+}
+
+.hed {
+    background-color: aqua;
+    position: fixed;
+    top: 0;
 }
