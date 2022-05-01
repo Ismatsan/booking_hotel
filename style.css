@@ -1,11 +1,16 @@
-.button{
-    width: 100px;
-    height: 30px;
-    background: greenyellow;
+header{
+    width: 1200px;
+    height: 120px;
 }
 
-.hed {
-    background-color: aqua;
-    position: fixed;
-    top: 0;
+.hed button {
+     width: 100px;
+     height: 30px;
+    border-radius: 5px;
+     background: greenyellow;
+ }
+
+.hed h1 {
+    display: flex;
+    justify-content: center;
 }
