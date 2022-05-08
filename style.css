@@ -17,6 +17,11 @@ header{
 
 footer {
     width: 1576px;
-    height: 125px;
+    height: 135px;
     background-color: saddlebrown;
+}
+
+p {
+    display: flex;
+    justify-content: center;
 }
